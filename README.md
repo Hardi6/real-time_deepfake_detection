@@ -10,5 +10,8 @@ The System will initially record video and extract frames from it and then use i
 Model to predict the status of the frame. And hence the video will be classified as fake or real. The labeled
 CSV is used to extract HOG feature and converted into an array which is later fed to RNN for prediction.
 
+
 Architectural Overview:-
+
+
 ![Screenshot 2024-07-23 193701](https://github.com/user-attachments/assets/4495348a-6234-422d-b370-6df9d77d1ba6)
