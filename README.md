@@ -1,5 +1,6 @@
 # real-time_deepfake_detection
 DeepFake Detection on real-time videos
+
 Proposed System:-
 The Proposed DeepFake Detection System will detect the accuracy of authenticity the real time image.
 The model is implemented using Recurrent Neural Network. We have used ’real and deepfake images’
